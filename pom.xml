@@ -46,6 +46,22 @@
         </license>
     </licenses>
 
+    <developers>
+        <developer>
+            <id>neo4j</id>
+            <name>The Neo4j Team</name>
+            <url>http://neo4j.org/</url>
+            <organization>Neo4j, Inc</organization>
+            <organizationUrl>http://www.neotechnology.com/</organizationUrl>
+        </developer>
+        <developer>
+            <id>bigconnect</id>
+            <name>The BigConnect Team</name>
+            <url>https://bigconnect.io</url>
+            <organization>MWARE SOLUTIONS SRL</organization>
+        </developer>
+    </developers>
+
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
